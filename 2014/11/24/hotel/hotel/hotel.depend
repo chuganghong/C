@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1416833569 source:e:\github\c\2014\11\24\hotel\usehotel.c
+	<stdio.h>
+	"hotel.h"
+
+1416834616 e:\github\c\2014\11\24\hotel\hotel.h
+
+1416836904 source:e:\github\c\2014\11\24\hotel\hotel.c
+	<stdio.h>
+	"hotel.h"
+
